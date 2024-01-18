@@ -1,6 +1,6 @@
 ## Comparing my Spotify 2020 and 2023 Data
 
-** Motivation **
+**Motivation**
 * I want to see the alteration of my taste in music through 2020 to 2023 years. I had 5 hypothesis that motivated me to do this project:
 * 1) Through 2020 to 2023 my music genre did not change and stayed same and stayed as Rock (Turkish).
   2) Through 2020 to 2023 the tempo (BPM) of the musics that I listened increased.
