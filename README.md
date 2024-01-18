@@ -31,5 +31,7 @@
 * 1)  Through 2020 to 2023 the tempo (BPM) of the musics that I listened increased. In 2020 the average tempo of 100 songs was 122.04 and in 2023 the average tempo of 100 songs was 123.28. There is slightly difference between this two years but the average tempo of 100 songs was increased. Here you can see the Average of BPM and Energy. ![avg](https://github.com/omertarim/CS210-Spotify-Project/blob/main/average_bpm_energy.png) 
   2)  The average Energy of the songs that I listened through 2020 to 2023 was increased. Average Energy for 2020 dataset is 57.72 and average Energy for 2023 dataset was 59.96. 
 
+** Limitations and Future Work **
+* I could have done a more detailed data analysis. For example instead of using 100 songs I could have used 200 or more songs to see more detailed informations about my music of taste. In the future I will study on my last 5 year (2020,2021,2022,2023,2024) spotify datas. I will be trying to enhance my examinations and reach more detailed informations about my music taste. 
 
      
