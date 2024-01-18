@@ -7,6 +7,8 @@
   3) Duman (Turkish rock group) was always in my top 5 artists.
   4) The average Energy of the songs that I listened through 2020 to 2023 was increased.
   5) Correlation values between BPM and Energy nwere need to be very strong for both 2020 and 2023 years.*
-  
+
+  ** Data Source **
+  * I used my spotify datas. I used my 2020 most listened (top 100) songs playlist and my 2023 most listened (top 100) songs playlist). I created csv files that you can see in the
 
      
