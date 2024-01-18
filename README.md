@@ -10,6 +10,6 @@
 
   ** Data Source **
   * I used my spotify datas. I used my 2020 most listened (top 100) songs playlist and my 2023 most listened (top 100) songs playlist). I created two seperated csv files that show my 2020 most listened (top 100) songs playlist and my 2023 most listened (top 100) songs playlist) which you can see in my CS-210-Sotify-Project repository. I imported this files by using
-![chosic](https://www.chosic.com/spotify-playlist-analyzer/).
+[chosic](https://www.chosic.com/spotify-playlist-analyzer/).
 
      
