@@ -25,7 +25,7 @@
   * I found out 2 of my hypothesis is true and 3 of them are wrong.
   * The wrong hypothesis are:
   * 1) Through 2020 to 2023, my music genre changed Turkish Rock to Turkish Drill.
-    2) Duman (Turkish rock group) was not in my top 5 artists lists in 2023. My 2020 the most listened artist was Duman however my 2023 most listened was BLOK3 (Turkish drill artist).
+    2) Duman (Turkish rock group) was not in my top 5 artists lists in 2023. My [2020 the most listened artist](https://github.com/omertarim/CS210-Spotify-Project/blob/main/top10_artist_2020.png) was Duman however my 2023 most listened was BLOK3 (Turkish drill artist).
     3) Correlation values between BPM and Energy was very weak for both 2020 and 2023 years. Correlation between BPM and Energy for the top 100 songs in 2020 is -0.10 and Correlation between BPM and Energy for the top 100 songs in 2023 is 0.01. Here you can see the Correlation between BPM and Energy. ![correlation](https://github.com/omertarim/CS210-Spotify-Project/blob/main/correlation_bpm_energy.png)
 * The true hypothesis are:
 * 1)  Through 2020 to 2023 the tempo (BPM) of the musics that I listened increased. In 2020 the average tempo of 100 songs was 122.04 and in 2023 the average tempo of 100 songs was 123.28. There is slightly difference between this two years but the average tempo of 100 songs was increased. Here you can see the Average of BPM and Energy. ![avg](https://github.com/omertarim/CS210-Spotify-Project/blob/main/average_bpm_energy.png) 
